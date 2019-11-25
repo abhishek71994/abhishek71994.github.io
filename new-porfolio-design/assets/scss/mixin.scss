@@ -1,5 +1,0 @@
-@mixin for-desktop {
-  @media (orientation: landscape) and (min-device-aspect-ratio: 1/1) {
-    @content;
-  }
-}
