@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),i=n("vrFN"),l=n("0b+E"),c=n("FwSb");n("HHUu");a.default=function(){var e;return e="UA-168898528-1",l.a.initialize(e),r.a.createElement(r.a.Fragment,null,r.a.createElement(i.a,{title:"Abhishek Prasad"}),r.a.createElement(c.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1e20f81375a84da3dc81.js.map
