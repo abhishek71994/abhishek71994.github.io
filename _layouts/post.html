@@ -8,7 +8,6 @@ tail_includes:
   - post-nav
   - comments
 ---
-
 {% include lang.html %}
 
 <article class="px-1">
@@ -75,7 +74,7 @@ tail_includes:
         </span>
 
         <!-- read time -->
-        {% include read-time.html content=content prompt=true lang=lang %}
+        {% comment %} {% include read-time.html content=content prompt=true lang=lang %} {% endcomment %}
       </div>
       <!-- .d-flex -->
     </div>
