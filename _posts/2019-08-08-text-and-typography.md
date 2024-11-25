@@ -1,10 +1,10 @@
 ---
 title: Talking shit about infra
-author: Abhishek Prasad
+author: Abhishek
 date: 2024-02-14 11:33:00 +0800
 categories: [Blogging, Demo]
-tags: [infrastructure, kubernets]
-pin: true
+tags: [infrastructure, kubernetes]
+pin: false
 math: true
 mermaid: true
 image:
